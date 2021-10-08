@@ -1,0 +1,8 @@
+{
+  "name": "weekly-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ahwgs/weekly-npm.git",
+  "author": "ahwgs <ah_wgs@126.com>",
+  "license": "MIT"
+}
