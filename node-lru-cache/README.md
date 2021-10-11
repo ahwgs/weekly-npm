@@ -117,6 +117,8 @@ console.log(cache.get("a"));
 
 2.[LruCache 在美团 DSP 系统中的应用演进](https://zhuanlan.zhihu.com/p/53118773)
 
+3.[[vue keep-alive 的实现原理和缓存策略](https://www.cnblogs.com/everlose/p/12541934.html)](https://www.cnblogs.com/everlose/p/12541934.html)
+
 ## 缺点
 
 因为 lru 是基于内存的缓存方案，所以在分布式项目中没法搞，无法做不同机器下的同步
