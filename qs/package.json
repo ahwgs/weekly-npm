@@ -1,0 +1,10 @@
+{
+  "name": "qs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ahwgs",
+  "license": "MIT",
+  "dependencies": {
+    "qs": "^6.10.1"
+  }
+}
